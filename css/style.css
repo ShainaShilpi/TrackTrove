@@ -1,0 +1,12 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+#expenseList {
+    margin-top: 20px;
+}
